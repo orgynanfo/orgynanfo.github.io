@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orgynanfo.github.io/sitemap
+Sitemap: https://orgynanfo.github.io/app/sitemap
+Sitemap: https://orgynanfo.github.io/assets/sitemap
+Sitemap: https://orgynanfo.github.io/css/sitemap
+Sitemap: https://orgynanfo.github.io/includes/sitemap
+Sitemap: https://orgynanfo.github.io/item/sitemap
+Sitemap: https://orgynanfo.github.io/src/sitemap
